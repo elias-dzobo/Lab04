@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1620413298 source:e:\project\func.cpp
+	"headfiles.h"
+
+1620413392 e:\project\headfiles.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<algorithm>
+	<vector>
+	<sstream>
+
+1620413248 source:e:\project\testfunc.cpp
+	"headfiles.h"
+
